@@ -34,7 +34,7 @@ unset GHTOKEN BASIC_AUTH
 
 cd "$INSTALL_DIR"
 
-chmod +x install.sh main.sh lib.sh
+chmod +x main.sh lib.sh
 chmod +x modules/*.sh
 
 echo ""
